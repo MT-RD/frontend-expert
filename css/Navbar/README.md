@@ -119,3 +119,10 @@ Navbar
     identical.
   </p>
 </div>
+
+
+# Result UI
+
+![Result UI](https://github.com/MT-RD/frontend-expert/blob/0f2ef9fc676976ddcc2952964e5551d02ec13cb0/css/Navbar/result_ui.jpg)
+
+
