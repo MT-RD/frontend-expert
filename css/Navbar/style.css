@@ -1,0 +1,26 @@
+/*  Write your code here. */
+
+nav {
+  color: #fff;
+  display: flex;
+  background-color: #6e072d;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+li {
+  font-size: 18px;
+  list-style-type: none;
+  padding-right: 27px;
+  padding-left: 27px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+li:not(:last-of-type) {
+  border-right: solid 2px #fff;
+}
